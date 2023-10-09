@@ -47,6 +47,9 @@ Welcome to the Python Projects for Beginners repository! This collection of Pyth
    - **Steps to Run:**
      - Ensure you have Python and OpenCV installed.
      - Execute the code using `python countDownTimer.py`.
+     - Example image taken by this project 👇👇
+     - ![camera](https://github.com/chidubesteve/Python-Projects/assets/117487194/39a781c8-dc33-43ec-96ad-0de15c235e15)
+
    - **Why It Helps:** This project integrates multiple concepts, including image capture, time manipulation, and user interactions.
 
 Feel free to explore these projects, modify them, and use them as a learning resource to boost your Python skills. If you love these projects, ⭐ this repo. Happy coding!
